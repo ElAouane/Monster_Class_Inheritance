@@ -1,6 +1,6 @@
 # __Monster Project__
 ## **Project Description:Create a Parent Class and a Child class**
-* Create and define attribute and methods of Parent Class(Monster_Class)
+* Create and define attribute and methods of Parent Class(Monster_Class) :older_man:
 
 **DEF Monster Class and Attributes**
 ````

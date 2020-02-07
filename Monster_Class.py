@@ -16,8 +16,4 @@ class Monster_Class():
         return f'{self.name} does not pay taxes'
 
 
-hamza = Monster_Class(name='Hamza',strenght=2, scary_skills='No')
 
-# print(hamza.name)
-# print(hamza.strenght)
-# print(hamza.scary_skills)
