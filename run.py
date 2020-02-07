@@ -1,4 +1,4 @@
-from Monster_Class import *
+
 from Student_Monster_Class import *
 
 monster1 = Student_Monster(name='Monster1', strenght=2, scary_skills='Nope', uni_id=111, scary_subject='Unknown')
@@ -21,4 +21,5 @@ monster2 = Student_Monster(name='Monster2', strenght=8, scary_skills='Shout', un
 # print(monster2.sleep())
 # print(monster2.pay_taxes())
 print(monster2.scary_subject.append('Geeksq'))
+print(monster2.scary_subject)
 
